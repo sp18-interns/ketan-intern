@@ -1,10 +1,12 @@
-# <10-MARCH-2022>
+# 10-MARCH-2022
 
 ## First Half
 
 - Topic:Mysql
+
 - Task :Solved Exercise of sql on https://www.w3schools.com/sql/
--		Researched -- Some of the Sql Queries / Followed Sql Tutorial
+
+- Researched -- Some of the Sql Queries / Followed Sql Tutorial
 
 ### Videos
 
@@ -37,11 +39,13 @@
 ### Links
 
 - https://www.w3schools.com/sql/
+
 - https://www.javatpoint.com/sql-tutorial
 
 ## Second Half
 
 - Topic:Mysql
+
 - Had a New Task at Hand to Complete 
 
 ### Videos

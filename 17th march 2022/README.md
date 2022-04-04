@@ -3,8 +3,8 @@
 ## First Half
 
 - Topic:SpringBoot
+
 - Task :Spring Boot Tutorial | Full Course 
-- 
 
 ### Videos
 
@@ -21,6 +21,7 @@
 ### Links
 
 - https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core
+
 - https://docs.spring.io/spring-framework/docs/current/reference/html/
 
 ## Second Half
@@ -45,5 +46,7 @@
 ### Links
 
 - https://www.tutorialspoint.com/jpa/jpa_entity_relationships.htm
+
 - https://www.geeksforgeeks.org/introduction-to-project-lombok-in-java-and-how-to-get-started/
+
 - https://www.baeldung.com/jpa-cascade-types

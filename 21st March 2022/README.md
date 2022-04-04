@@ -3,7 +3,9 @@
 ## First Half
 
 - Topic:SpringBoot
+
 - Had a Team Meet
+
 - Got Assigned With Task - Create No Broker Clone Application
 
 ### Videos
@@ -13,6 +15,7 @@
 ### Assignment 
 
 - Follow the Tutorial and Implement - Completed
+
 - Started Working on Documentation of the Task - No broker Clone
 
 ### Doubts

@@ -1,8 +1,9 @@
-# <09-MARCH-2022>
+# 09-MARCH-2022
 
 ## First Half
 
 - Topic:Mysql
+
 - Task :Created Queries on Mysql 
 
 ### Videos
@@ -40,12 +41,15 @@
 ### Links
 
 - https://www.w3schools.com/sql/sql_insert.asp
+
 - https://www.javatpoint.com/mysql-join
+
 - https://www.tutorialspoint.com/sql/sql-insert-query.htm
 
 ## Second Half
 
 - Topic:Mysql
+
 - Had a Session with Ashish Verma (Demo) 
 
 ### Videos

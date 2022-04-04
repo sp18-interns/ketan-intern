@@ -3,6 +3,7 @@
 ## First Half
 
 - Topic:SpringBoot
+
 - Task :Spring Boot Tutorial | Full Course 
 
 ### Videos
@@ -12,7 +13,9 @@
 ### Assignment 
 
 - Follow the Tutorial and Implement 
+
 - Read about few Annotations 
+
 - Installed Postgre Sql
 
 ### Doubts
@@ -34,6 +37,7 @@
 ### Assignment 
 
 - Completed / Performed the course till Database Connectivity *refer readme file in springbootApplication folder*
+
 - Assignment - pending
 
 ### Doubts

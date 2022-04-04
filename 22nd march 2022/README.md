@@ -21,6 +21,7 @@
 ### Links
 
 - https://www.databasestar.com/entity-relationship-diagram/
+
 - https://www.lucidchart.com/pages/er-diagrams/#section_3
 
 ## Second Half
