@@ -1,8 +1,10 @@
-# 01-APRIL-2022
+# 04-APRIL-2022
 
 ## First Half
 
-- Solved HackerRank Problem 
+- Read about JPA with Hibernate
+
+- Had a session with Abrar Sir and Kunal Sir Regarding the Walkthrough of API Application 
 
 ### Videos
 
@@ -11,6 +13,8 @@
 ### Assignment 
 
 - NoBroker Clone - In-Progress
+
+- Practice and try to Implement CRUD operation (API) using Spring Boot
 
 ### Doubts
 
@@ -18,11 +22,11 @@
 
 ### Links
 
-- Null
+- https://stackabuse.com/guide-to-jpa-with-hibernate-basic-mapping/
 
 ## Second Half
 
-- Solved HackerRank Problems
+- Implementing a service that will take care of creating, updating, and retrieving cars from an inventory.
 
 ### Videos
 
@@ -30,7 +34,7 @@
 
 ### Assignment 
 
-- NoBroker Clone - In-Progress
+- Creating an API using Java Spring Boot
 
 ### Doubts
 
@@ -38,4 +42,4 @@
 
 ### Links
 
-- Null
+- https://medium.com/javarevisited/from-zero-to-service-a-guide-on-creating-an-api-using-java-spring-boot-88080b54a597
