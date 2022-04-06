@@ -43,3 +43,5 @@
 [Date - 4th April 2022](https://github.com/sp18-interns/ketan-intern/tree/main/4th%20april%202022)
 
 [Date - 5th April 2022](https://github.com/sp18-interns/ketan-intern/tree/main/5th%20april%202022)
+
+[Date - 6th April 2022](https://github.com/sp18-interns/ketan-intern/tree/main/6th%20april%202022)
